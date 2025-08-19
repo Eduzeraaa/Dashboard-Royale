@@ -15,3 +15,5 @@ Dashboard interativo desenvolvido em Streamlit para exibir estatísticas detalha
 - Streamlit – Criação da interface web interativa;  
 - Pandas – Manipulação e leitura dos arquivos CSV;  
 - Plotly – Geração de gráficos interativos;  
+
+### Confira meu web app: https://dashboardroyale.streamlit.app/
